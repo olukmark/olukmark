@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+<!-- README.md --><br><br># Hi there 👋 I’m OluK Mark ([@olukmark] on GitHub)!<br><br>Software Engineer at Rivertree Technologies, Uganda 🇺🇬  <br>Building web applications, exploring data analytics, and automating workflows.<br><br>---<br><br>## 🚀 Tech Stack<br>- **Languages:** HTML, CSS/SCSS, JavaScript, PHP, Python  <br>- **Tools:** Git, GitHub, MTN‑MoMo API, VS Code  <br><br>---<br><br>## 📊 GitHub Stats<br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=olukmark&show_icons=true&theme=tokyonight)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olukmark&layout=compact&theme=tokyonight)<br><br>---<br><br>## 🔗 Social & Connect with Me<br>[Twitter](https://twitter.com/olukmark) •  <br>[LinkedIn](https://linkedin.com/in/olukmark) •  <br>[Instagram](https://instagram.com/olukmark) •  <br>[Mastodon](https://mastodon.social/@olukmark)<br><br>---<br><br>## 🏆 GitHub Trophies<br>![GitHub trophy](https://github-profile-trophy.vercel.app/?username=olukmark&theme=onedark)<br><br>---<br><br>> “Always learning, always sharing.”<br><br>---<br><br>### ⬇️ How To Use This<br><br>1. **Repository name**: `olukmark` (must match your GitHub username)  <br>2. Put this Markdown in `README.md`  <br>3. In your GitHub **Profile → Edit → Social accounts**, add up to four URLs like:<br>   - `https://twitter.com/olukmark`<br>   - `https://linkedin.com/in/olukmark`<br>   - etc. — icons will appear automatically :contentReference[oaicite:11]{index=11}<br>4. Commit and view your enriched profile 🎉<br><br>---<br><br>## 📌 Why These Sections?<br><br>- **GitHub Stats & Language graphs** highlight your contributions and strengths efficiently.<br>- **Social links with icons** increase discoverability and professionalism.<br>- **Trophies and quote** add flair and personality without clutter.<br><br>---<br><br>Let me know if you’d like to swap out any section (e.g., add a visitor counter, a meme, or quote), or customize the style/theme further—I’d be happy to help refine it!<br>::contentReference[oaicite:12]{index=12}<br>
 
-<!--
-**olukmark/olukmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olukmark) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/olukmark) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=olukmrk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=olukmrk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=olukmrk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=olukmrk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
