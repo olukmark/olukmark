@@ -40,7 +40,3 @@ Building web applications, exploring data analytics, and automating workflows.
 
 ---
 
-
-
-Feel free to let me know if you want to add a visitor counter, GIF banner, blog posts section, or a random quote/meme! I can also help you tailor the theme or spacing further.
-::contentReference[oaicite:4]{index=4}
